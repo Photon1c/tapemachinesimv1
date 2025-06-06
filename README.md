@@ -1,6 +1,8 @@
 # 🎛️ Tape Machine Sim Version 1 🎚️
 
-![tapemachine](media/tapemachine.PNG)
+This project is live [here](https://cheddarbutler.com/threejs/tapemachinev1/)
+
+![tapemachine](media/tapemachinev1.PNG)
 
 A realistic 3D simulation of a classic seismograph/tape machine, built with Three.js. This interactive web application brings to life the intricate mechanics of a vintage recording device, complete with a moving needle and paper tape system.
 
