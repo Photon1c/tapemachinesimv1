@@ -1,0 +1,11 @@
+{
+  "name": "seismograph-3d",
+  "version": "1.0.0",
+  "description": "3D Seismograph Visualization",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "three": "^0.160.0",
+    "dat.gui": "^0.7.9"
+  }
+} 
